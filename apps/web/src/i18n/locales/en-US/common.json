@@ -12,5 +12,8 @@
   "empty": {
     "title": "Nothing here yet",
     "body": "Create your first project to get started."
+  },
+  "banner": {
+    "upgrade": "Upgrade to Pro for unlimited projects"
   }
 }
