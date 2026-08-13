@@ -2,7 +2,8 @@
   "nav": {
     "dashboard": "Dashboard",
     "settings": "Settings",
-    "signOut": "Sign out"
+    "signOut": "Sign out",
+    "billing": "Billing"
   },
   "actions": {
     "save": "Save",
