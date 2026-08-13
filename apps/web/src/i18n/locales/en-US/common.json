@@ -1,19 +1,19 @@
 {
-  "nav": {
-    "dashboard": "Dashboard",
-    "settings": "Settings",
-    "signOut": "Sign out"
+  "banner": {
+    "upgrade": "Upgrade to Pro for unlimited projects"
   },
-  "actions": {
-    "save": "Save",
-    "cancel": "Cancel",
-    "delete": "Delete"
+  "nav": {
+    "signOut": "Sign out",
+    "settings": "Settings",
+    "dashboard": "Dashboard"
   },
   "empty": {
     "title": "Nothing here yet",
     "body": "Create your first project to get started."
   },
-  "banner": {
-    "upgrade": "Upgrade to Pro for unlimited projects"
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
   }
 }
