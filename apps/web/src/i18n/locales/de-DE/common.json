@@ -1,0 +1,20 @@
+{
+  "actions": {
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "save": "Save"
+  },
+  "banner": {
+    "upgrade": "Upgrade to Pro for unlimited projects"
+  },
+  "empty": {
+    "body": "Create your first project to get started.",
+    "title": "Nothing here yet"
+  },
+  "nav": {
+    "billing": "Billing",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "signOut": "Sign out"
+  }
+}
